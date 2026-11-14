@@ -1,0 +1,58 @@
+# --- 2단계(극단): Google 핵심 서비스 / 스토어 ---
+com.google.android.gms
+com.google.android.gsf
+com.android.vending
+com.google.android.setupwizard
+com.google.android.onetimeinitializer
+com.google.android.configupdater
+com.google.android.cellbroadcastreceiver
+com.google.android.apps.photos
+# --- Samsung 계정 / 업데이트 / 디바이스케어 ---
+com.osp.app.signin
+com.samsung.android.app.updatecenter
+com.sec.android.soagent
+com.samsung.android.lool
+com.samsung.android.sm.devicesecurity
+com.samsung.android.scpm
+com.samsung.android.sdm.config
+com.samsung.android.cidmanager
+com.samsung.android.gru
+com.samsung.ipservice
+com.samsung.aasaservice
+com.samsung.android.kmxservice
+com.sec.enterprise.knox.cloudmdm.smdms
+com.samsung.android.biometrics.app.setting
+# --- 공장/테스트 ---
+com.samsung.android.providers.factory
+com.sec.factory.camera
+com.sec.factory.cameralyzer
+com.sec.android.app.hwmoduletest
+com.sec.android.app.factorykeystring
+com.sec.android.app.wlantest
+com.sec.android.app.servicemodeapp
+com.sec.android.app.DataCreate
+com.sec.facatfunction
+com.samsung.android.vtcamerasettings
+# --- 통신(IMS)/테더링/위치 (Wi-Fi 태블릿) ---
+com.sec.imsservice
+com.samsung.advp.imssettings
+com.samsung.android.app.telephonyui
+com.sec.mhs.smarttethering
+com.sec.modem.settings
+com.sec.location.nfwlocationprivacy
+com.sec.location.nsflp2
+com.samsung.android.server.wifi.mobilewips
+com.samsung.android.net.wifi.wifiguider
+# --- 백업/기타 상주 ---
+com.samsung.android.keycustomizationinfobackupservice
+com.samsung.android.shortcutbackupservice
+com.android.wallpaperbackup
+com.android.wallpapercropper
+com.samsung.android.setting.multisound
+com.sec.android.app.chromecustomizations
+com.samsung.safetyinformation
+com.sec.android.emergencylauncher
+com.samsung.clipboardsaveservice
+com.sec.android.iaft
+com.sec.sve
+com.sec.android.app.myfiles

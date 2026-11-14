@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hagibis / MacroSilicon MS2130 -->
+    <usb-device vendor-id="13407" product-id="8496" />
+    <!-- Any UVC device (Miscellaneous / IAD) -->
+    <usb-device class="239" subclass="2" protocol="1" />
+</resources>
